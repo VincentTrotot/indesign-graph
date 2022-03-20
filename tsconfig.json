@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "none",
+        "noLib": true,
+        "outFile": "../../graph.js",
+        "types": ["types-for-adobe/indesign/2018"],
+        "strict": true,
+        "removeComments": true
+    },
+    "exclude": ["node_modules"]
+}
